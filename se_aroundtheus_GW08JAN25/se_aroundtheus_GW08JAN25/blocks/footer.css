@@ -1,0 +1,12 @@
+.footer {
+  color: #545454;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21.78px;
+  margin-bottom: 60px;
+  margin-top: 67px;
+}
+.footer__description {
+  margin: 0;
+  max-width: 318px;
+}
